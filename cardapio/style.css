@@ -1,0 +1,38 @@
+html{
+
+}
+
+h1{
+    margin: 40px;
+    padding: 0;
+    border: 0;
+
+    text-align: center;
+
+    
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: oblique;
+    color:blueviolet;
+    font-size: 80px;}
+
+th{
+   background-color: red;
+   
+   
+}
+
+
+
+.tabela{
+    
+    border: solid 1px ;
+   
+    text-justify:distribute-all-lines;
+    
+
+}
+
+td{
+   
+    text-align: center;
+}

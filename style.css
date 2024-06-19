@@ -1,0 +1,38 @@
+h1{
+  margin: 40px;
+  padding: 0;
+  border: 0;
+   text-align: center;
+
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-style: oblique;
+    color:blueviolet;
+    font-size: 80px; 
+
+}
+h2{
+    margin: 10px;
+    padding: 5px;
+    border: 0;
+    font-size:xx-large;
+text-align: center;
+}
+
+
+.caldos{
+    margin: 1px;
+    padding: 0;
+    border: solid red 10px;
+    border-radius: 20px 20px;
+
+}
+.caldo1{ 
+
+    border-radius: 50px 50px 50px 50px;
+}
+.lasanha1{
+    border-radius: 20px ;
+}
+.panquecas1{
+    border-radius: 50px  ;
+}
